@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes RUBY/1stRuby Main.unity
+    guid: 3536cbbb9992b407fbca89e4046859b0
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 1.unity
+    guid: df5c9cc508f1a468e92049b83f3f2f20
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 2.unity
+    guid: d7d5df9a736bc4afd802823a9160e604
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 3.unity
+    guid: 7ec97486e07c9408ba9a1207e0f082af
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 4.unity
+    guid: ce1b1d3f836b44762b682655e4f721eb
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 5.unity
+    guid: 803e4fbade3c248ea941b0e64d548584
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 6.unity
+    guid: 184b656f0fcb74df7b824b3fd7185ac9
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 7.unity
+    guid: bb68f4d3ee9124f43b07b40c8525148d
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 8.unity
+    guid: 9fd4936048663489ea7be86ac793c1fb
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 9.unity
+    guid: 936cc137461d04ca98b1c62479ee4e4c
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 10.unity
+    guid: 44592cbeb0829400891aca772514eada
+  - enabled: 1
+    path: Assets/Scenes RUBY/Ruby 11.unity
+    guid: 43dce42650f4c42ae84a7437f2b865b4
+  m_configObjects: {}

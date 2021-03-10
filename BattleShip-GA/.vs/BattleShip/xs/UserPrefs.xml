@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{5D4F921A-0B4E-6041-6796-4582536DCF4B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Move.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Move.cs" Line="11" Column="114" />
+      <File FileName="Assets/Scripts/BattleSystem.cs" Line="44" Column="11" />
+      <File FileName="Assets/Scripts/EnemyAI.cs" Line="11" Column="114" />
+      <File FileName="Assets/Scripts/CannonBall.cs" Line="7" Column="21" />
+      <File FileName="Assets/Scripts/PlayerCannonBall.cs" Line="7" Column="21" />
+      <File FileName="Assets/Scripts/PlayerData.cs" />
+      <File FileName="Assets/Scripts/SaveSystem.cs" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="17" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="39660f55-3adb-41e5-bedb-5658efd9886c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
